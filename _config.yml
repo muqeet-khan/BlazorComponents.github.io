@@ -1,1 +1,1 @@
-include:             ["_framework/","_framework/bin/"]
+include:             ["_framework/*/*.*"]
