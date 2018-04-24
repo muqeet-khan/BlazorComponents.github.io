@@ -1,1 +1,1 @@
-include:             ["_framework/"]
+include:             ["_framework/","_framework/bin/"]
